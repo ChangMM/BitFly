@@ -1,4 +1,4 @@
-# BT协议规范BEP3 (BitTorrent Protocol Specification BEP3)
+# BT协议规范BEP3 (BEP3- The BitTorrent Protocol Specification)
 -------
 [英文原文](http://www.bittorrent.org/beps/bep_0003.html)   
 [中文原文](https://www.jianshu.com/p/ad0eb1989ab0)

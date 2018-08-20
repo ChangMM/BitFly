@@ -1,4 +1,4 @@
-# BT协议规范BEP5 (BitTorrent Protocol Specification BEP5)
+# BT协议规范BEP5 (BEP5-DHT Protocol)
 ----------
 [英文原文](http://www.bittorrent.org/beps/bep_0005.html)   
 [中文原文--部分改动](http://justjavac.com/other/2015/02/01/bittorrent-dht-protocol.html)
