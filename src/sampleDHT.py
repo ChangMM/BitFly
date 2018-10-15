@@ -177,7 +177,7 @@ class DHTServer(DHTClient):
                     "token": token
                 }
             }
-            print "The torrent infohash is", info_hash
+            print "The torrent infohash is", info_hash.encode("hex")
             self.send_krpc(msg, address)
         except KeyError:
             pass
